@@ -1,0 +1,7 @@
+/.vscode
+/include
+/lib
+/scripts
+/share
+/*.csv
+/*.tsv
