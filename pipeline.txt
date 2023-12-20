@@ -1,0 +1,23 @@
+Training an API calling chatbot
+
+topic: bodybuilding
+
+features:
+1. asnwer use question about bodybuilding
+2. Allow users to log exercise stats and session into
+
+User inputs a question or call to action
+
+the chatbot first classifies the input as question or call to action
+
+Then the chatbot either
+1. Tries to answer said question with the available data it has
+2. Tries to determine which action this user is trying to perform
+
+Pipeline
+
+Input ->
+	[Question Or CallToAction Model]
+	- if Question -> [Question Classification Model] -> {Call External LLM}
+		- issue: how to determine which questions are within scope (meaning still workout related)
+	- if CallToAction -> [CallToAction Classification Model] -> {Call service API}

@@ -1,0 +1,237 @@
+[
+    {
+        "muscle_group":"Chest",
+        "exercises":[
+            {
+                "name":"Barbell Bench Press",
+                "description":"Compound exercise targeting the pectoralis major, minor, triceps, and anterior deltoids.",
+                "equipment":"Barbell"
+            },
+            {
+                "name":"Incline Dumbbell Press",
+                "description":"Similar to the bench press but with a focus on the upper chest.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Decline Dumbbell Press",
+                "description":"Targets the lower chest.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Dumbbell Flyes",
+                "description":"Isolation exercise for the pectoralis major.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Cable Crossovers",
+                "description":"Another isolation exercise for the pectoralis major.",
+                "equipment":"Cable machine"
+            },
+            {
+                "name":"Dips",
+                "description":"Compound exercise targeting the triceps, chest, and shoulders.",
+                "equipment":"Bodyweight, parallel bars or dip machine"
+            },
+            {
+                "name":"Push-Ups",
+                "description":"Bodyweight exercise for the chest, triceps, and shoulders.",
+                "equipment":"Bodyweight"
+            }
+        ]
+    },
+    {
+        "muscle_group":"Back",
+        "exercises":[
+            {
+                "name":"Pull-Ups",
+                "description":"Compound exercise targeting the latissimus dorsi, biceps, and rear deltoids.",
+                "equipment":"Pull-up bar"
+            },
+            {
+                "name":"Barbell Rows",
+                "description":"Compound exercise targeting the latissimus dorsi, rhomboids, and middle back.",
+                "equipment":"Barbell"
+            },
+            {
+                "name":"Seated Cable Rows",
+                "description":"Isolation exercise for the latissimus dorsi.",
+                "equipment":"Cable machine"
+            },
+            {
+                "name":"Face Pulls",
+                "description":"Isolation exercise for the rear deltoids and rhomboids.",
+                "equipment":"Cable machine"
+            },
+            {
+                "name":"Dumbbell Rows",
+                "description":"Variation of the barbell row with more freedom of movement.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Barbell Deadlifts",
+                "description":"Compound exercise targeting the entire posterior chain, including the hamstrings, glutes, and lower back.",
+                "equipment":"Barbell"
+            },
+            {
+                "name":"Lat Pulldowns",
+                "description":"Isolation exercise for the latissimus dorsi.",
+                "equipment":"Cable machine"
+            }
+        ]
+    },
+    {
+        "muscle_group":"Shoulders",
+        "exercises":[
+            {
+                "name":"Dumbbell Shoulder Press",
+                "description":"Compound exercise targeting the deltoids.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Lateral Raises",
+                "description":"Isolation exercise for the lateral deltoids.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Front Raises",
+                "description":"Isolation exercise for the anterior deltoids.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Reverse Flyes",
+                "description":"Isolation exercise for the posterior deltoids.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Arnold Press",
+                "description":"Rotational movement targeting all three deltoid heads.",
+                "equipment":"Dumbbells"
+            }
+        ]
+    },
+    {
+        "muscle_group":"Legs",
+        "exercises":[
+            {
+                "name":"Barbell Squats",
+                "description":"Compound exercise targeting the quadriceps, hamstrings, and glutes.",
+                "equipment":"Barbell"
+            },
+            {
+                "name":"Leg Press",
+                "description":"Compound exercise targeting the quadriceps.",
+                "equipment":"Leg press machine"
+            },
+            {
+                "name":"Leg Extensions",
+                "description":"Isolation exercise for the quadriceps.",
+                "equipment":"Leg extension machine"
+            },
+            {
+                "name":"Leg Curls",
+                "description":"Isolation exercise for the hamstrings.",
+                "equipment":"Leg curl machine"
+            },
+            {
+                "name":"Calf Raises",
+                "description":"Isolation exercise for the calves.",
+                "equipment":"Dumbbells, barbell, calf raise machine"
+            }
+        ]
+    },
+    {
+        "muscle_group":"Biceps",
+        "exercises":[
+            {
+                "name":"Barbell Curls",
+                "description":"Compound exercise targeting the biceps brachii.",
+                "equipment":"Barbell"
+            },
+            {
+                "name":"Dumbbell Curls",
+                "description":"Isolation exercise for the biceps brachii.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Hammer Curls",
+                "description":"Isolation exercise for the brachioradialis.",
+                "equipment":"Dumbbells"
+            },
+            {
+                "name":"Concentration Curls",
+                "description":"Isolation exercise for the biceps peak.",
+                "equipment":"Dumbbells"
+            }
+        ]
+    },
+    {
+        "muscle_group":"Triceps",
+        "exercises":[
+            {
+                "name":"Barbell Skull Crushers",
+                "description":"Isolation exercise for the triceps brachii.",
+                "equipment":"Barbell"
+            },
+            {
+                "name":"Tricep Dips",
+                "description":"Compound exercise targeting the triceps brachii.",
+                "equipment":"Bodyweight, parallel bars or dip machine"
+            },
+            {
+                "name":"Tricep Pushdowns",
+                "description":"Isolation exercise for the triceps brachii.",
+                "equipment":"Cable machine"
+            },
+            {
+                "name":"Overhead Tricep Extensions",
+                "description":"Isolation exercise for the triceps brachii.",
+                "equipment":"Dumbbells, barbell"
+            }
+        ]
+    },
+    {
+        "muscle_group":"Core",
+        "exercises":[
+            {
+                "name":"Plank",
+                "description":"Static exercise targeting the abdominal muscles.",
+                "equipment":"Bodyweight"
+            },
+            {
+                "name":"Crunches",
+                "description":"Isolation exercise for the rectus abdominis.",
+                "equipment":"Bodyweight, mat"
+            },
+            {
+                "name":"Russian Twists",
+                "description":"Dynamic exercise for the obliques.",
+                "equipment":"Medicine ball, weight plate"
+            },
+            {
+                "name":"Hanging Leg Raises",
+                "description":"Compound exercise for the lower abs and hip flexors.",
+                "equipment":"Pull-up bar"
+            }
+        ]
+    },
+    {
+        "muscle_group":"Additional Exercises",
+        "exercises":[
+            {
+                "name":"Clean and Press",
+                "description":"Compound exercise targeting the entire body.",
+                "equipment":"Barbell"
+            },
+            {
+                "name":"Snatch",
+                "description":"Olympic weightlifting exercise requiring high coordination and power.",
+                "equipment":"Barbell"
+            },
+            {
+                "name":"Turkish Get-Ups",
+                "description":"Full-body exercise challenging balance and core strength.",
+                "equipment":"Kettlebell"
+            }
+        ]
+    }
+]

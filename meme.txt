@@ -1,6 +1,0 @@
-Pipeline
-
-Spacy pipelines
-1. Add "exercise entity" (find a list of exercise names)
-
-2.
